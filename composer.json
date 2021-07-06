@@ -21,7 +21,9 @@
         "silverstripe/mfa": "4.3.x-dev",
         "silverstripe/totp-authenticator": "4.1.x-dev",
         "silverstripe/recipe-content-blocks": "^2.8",
-        "silverstripe/session-manager": "^0.2.0"
+        "silverstripe/session-manager": "^0.2.0",
+        "silverstripe/crontask": "^2.2",
+        "silverstripe/dynamodb": "^4.0"
     },
     "suggest": {
         "silverstripe/recipe-content-blocks": "Supplement the CMS with a 'content block' approach to editing"
